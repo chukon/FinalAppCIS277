@@ -1,10 +1,9 @@
 //
 //  ViewController.swift
 //  EventCheckIn
-//
+
 //  Created by Charles Konkol on 3/13/19.
-//  Copyright © 2019 Charles Konkol. All rights reserved.
-//
+
 
 import UIKit
 
